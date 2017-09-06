@@ -1,4 +1,4 @@
-var person = prompt("Yo gamer, What's your name?"); // prompt with gamer's name
+var person = prompt("Hello player, What's your name?"); // prompt with gamer's name
 
 if (person != null) {
     document.getElementById("user").innerHTML =
