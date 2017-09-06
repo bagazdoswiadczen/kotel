@@ -1,0 +1,111 @@
+h1 {
+  text-align: center;
+}
+.puzzle {
+  padding-top: 40px;
+  background-color: #EFF4F0;
+}
+.kwadrat {
+  display: flex;
+  justify-content: center;
+}
+.square {
+  display: flex;
+	width: 130px;
+	height: 130px;
+  border: 1px solid;
+  border-color: white;
+  background-color: #262626
+}
+.grey-area {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 70px;
+  height: 400px;
+  width: 390px;
+  background-color: #E6E6E6; 
+}
+
+#first {
+  top: 30px;
+  left: 12px;
+  height: 130px;
+  width: 130px;
+  border: 1px solid;
+  border-color: white;
+  background-image: url(https://github.com/bagazdoswiadczen/kotel/blob/master/zdjecia/first.jpg?raw=true);
+}
+
+#second  {
+  top: -70px;
+  left: 40px;
+  height: 130px;
+  width: 130px;
+  border: 1px solid;
+  border-color: white;
+  background-image: url(https://github.com/bagazdoswiadczen/kotel/blob/master/zdjecia/second.jpg?raw=true);
+}
+
+#third  {
+  top: -180px;
+  border: 1px solid;
+  border-color: white;
+  height: 130px;
+  width: 130px;
+  background-image: url(https://github.com/bagazdoswiadczen/kotel/blob/master/zdjecia/third.jpg?raw=true);
+}
+#fourth  {
+  top: -380px;
+  left: 180px;
+  border: 1px solid;
+  border-color: white;
+  height: 130px;
+  width: 130px;
+  background-image: url(https://github.com/bagazdoswiadczen/kotel/blob/master/zdjecia/fourth.jpg?raw=true);
+}
+#fifth  {
+  top: -440px;
+  left: 200px;
+  border: 1px solid;
+  border-color: white;
+  height: 130px;
+  width: 130px;
+  background-image: url(https://github.com/bagazdoswiadczen/kotel/blob/master/zdjecia/fifth.jpg?raw=true);
+}
+#sixth  {
+  top: -520px;
+  left: 240px;
+  border: 1px solid;
+  border-color: white;
+  height: 130px;
+  width: 130px;
+  background-image: url(https://github.com/bagazdoswiadczen/kotel/blob/master/zdjecia/sixth.jpg?raw=true);
+}
+#seventh  {
+  top: -630px;
+  left: 180px;
+  border: 1px solid;
+  border-color: white;
+  height: 130px;
+  width: 130px;
+  background-image: url(https://github.com/bagazdoswiadczen/kotel/blob/master/zdjecia/seventh.jpg?raw=true);
+}
+#eighth  {
+  top: -700px;
+  left: 150px;
+  border: 1px solid;
+  border-color: white;
+  height: 130px;
+  width: 130px;
+  background-image: url(https://github.com/bagazdoswiadczen/kotel/blob/master/zdjecia/eighth.jpg?raw=true);
+}
+#ninth  {
+  top: -860px;
+  left: 100px;
+  border: 1px solid;
+  border-color: white;
+  height: 130px;
+  width: 130px;
+  background-image: url(https://github.com/bagazdoswiadczen/kotel/blob/master/zdjecia/ninth.jpg?raw=true);
+}
+
